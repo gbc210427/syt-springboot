@@ -7,7 +7,7 @@
         <version>1.0</version>
     </parent>
 
-    <artifactId>service-util</artifactId>
+    <artifactId>service_util</artifactId>
     <packaging>jar</packaging>
     <version>1.0</version>
     <name>service_util</name>
@@ -17,8 +17,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.atguigu.yygh</groupId>
-            <artifactId>common-util</artifactId>
+            <groupId>com.atguigu</groupId>
+            <artifactId>common_util</artifactId>
             <version>1.0</version>
         </dependency>
         <!-- redis -->
